@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #FAF2E4;
+}
+
+.img {
+    border-radius: 50px;
+    width: 150px;
+}
+
+.content_text {
+    flex-wrap: wrap;
+    margin-left: 130px;
+}
+
+.content_text h4 {
+    color: chocolate;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+.content_text p {
+    font-size: 15px;
+}
